@@ -1,4 +1,4 @@
 tabs: ['pages/index.js']
 baseImage: 'next11'
 defaultView: 'terminal-editor-browser'
-terminal-one: yarn && yarn dev
+terminal-one: npm i && npm run dev

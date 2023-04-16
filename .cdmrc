@@ -1,4 +1,4 @@
 tabs: ['pages/index.js']
 baseImage: 'next11'
 defaultView: 'terminal-editor-browser'
-terminal-one: npm i && npm run dev
+terminal-one: chmod +x ./nvm.sh && ./nvm.sh && nvm install node && npm i && npm run dev
